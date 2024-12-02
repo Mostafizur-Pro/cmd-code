@@ -4,14 +4,8 @@
 
 [Windows PowerShell](wsl-powershell.md)
 
-## Linux Subsystem
+## Solve Docker Compose Problem
 
-[Linux Subsystem](wsl-bash.md)
-
-## Login to MySQL using Command Line
-
-```bash
-mysql -u root -p
-```
+[Solve Docker/ Docker Compose Problem](solve-docker-compose-problem.md)
 
 [BACK Main](../README.md)
