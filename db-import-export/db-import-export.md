@@ -6,4 +6,4 @@
 sudo mysql -u root -p
 ```
 
-Note: You can [change the MySQL password] (ChangeMySQLPass.md) for the root user
+Note: You can [change the MySQL password for the root user here](ChangeMySQLPass.md).
