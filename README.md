@@ -8,6 +8,6 @@
 
 [Docker](docker/docker-main.md)
 
-## Ubunto
+## Ubuntu
 
-[Ubunto](ubunto/ubunto-main.md)
+[Ubuntu](ubuntu/ubuntu-main.md)
