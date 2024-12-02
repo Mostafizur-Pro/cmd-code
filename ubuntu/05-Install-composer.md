@@ -81,3 +81,9 @@ sudo chown -R $USER:$USER ~/.composer
 ### Permission Issues with Composer
 
 Run commands with sudo or ensure your user has proper rights.
+
+---
+
+[BACK Ubuntu Main](ubuntu-main.md)
+<br/>
+[BACK Main](../README.md)

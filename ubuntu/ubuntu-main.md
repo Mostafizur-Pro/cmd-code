@@ -24,6 +24,14 @@
 
 [File Permission](04-File_permission.md)
 
+## Install Composer
+
+[Install Composer](05-Install-composer.md)
+
+## Apache2 Problem
+
+[Apache2 Problem](06-APACHE2-2-PHP-PHPMYADMIN-problem-Ubuntu20-mainly-for-APACHE2.md)
+
 ---
 
 [BACK Main](../README.md)
