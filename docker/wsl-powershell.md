@@ -1,5 +1,7 @@
 # Setting Up WSL in PowerShell
 
+---
+
 ## Step 1: Check WSL Version
 
 ```
@@ -38,9 +40,9 @@ wsl --set-default-version 2
 
 ---
 
----
-
 # Using WSL in PowerShell
+
+---
 
 ## Step 1: Launch WSL:
 
@@ -129,5 +131,38 @@ wsl --unregister Ubuntu
 ```
 wsl --status
 ```
+
+---
+
+# Solve docker/docker-compose problem
+
+---
+
+## Step 1: Update Packages List
+
+```
+sudo apt-get update
+```
+
+## Step 2: Install Docker
+
+```
+sudo apt install docker-compose
+```
+
+## Step 3: Verify Docker Installation
+
+```
+docker-compose --version
+
+```
+
+Output:
+
+```
+docker-compose version 2.21.0
+```
+
+Note : [Fix Docker Daemon](docker-daemon.md) Connection Problem
 
 [BACK Main](docker-main.md)
