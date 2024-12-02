@@ -2,7 +2,7 @@
 
 ## VSCode Extensions
 
-[VSCode Extensions Profile] (VSCode Extensions/NOTE.md)
+[VSCode Extensions Profile] (vscode-extensions/NOTE.md)
 
 ## Docker
 
