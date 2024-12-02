@@ -68,9 +68,9 @@
 
 [Nodejs](15-Nodejs.md)
 
-<!-- ## 16 Git
+## 16 Git
 
-[Git](16-Git.md) -->
+[Git](16-git.md)
 
 ---
 
