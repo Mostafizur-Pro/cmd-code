@@ -241,7 +241,7 @@ docker
 ## Step 13: Verify Docker Installation
 
 ```
-docker run hello-world
+docker --version
 ```
 
 ## Step 14: Restart WSL
