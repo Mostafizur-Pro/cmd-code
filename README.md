@@ -1,5 +1,5 @@
-### CMD Commands
+# CMD Commands
 
-#### VSCode Extensions
+## VSCode Extensions
 
-[note](VSCode Extensions/note.md)
+[VSCode Extensions Profile] (VSCode Extensions/NOTE.md)
