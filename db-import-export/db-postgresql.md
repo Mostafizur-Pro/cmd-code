@@ -57,4 +57,4 @@ ALTER USER new_user_name CREATEDB;
 
 <img src="images/05.png" alt="PostgreSQL Users" />
 
-[BACK](db-main.md)
+[BACK Main](db-main.md)

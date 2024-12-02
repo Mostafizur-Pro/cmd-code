@@ -30,4 +30,6 @@ FLUSH PRIVILEGES;
 exit;
 ```
 
-[BACK](db-mysql.md)
+[BACK MySQL Command Line](db-mysql.md)
+[BACK PostgreSQL Command Line](db-postgresql.md)
+[BACK Main](db-main.md)
