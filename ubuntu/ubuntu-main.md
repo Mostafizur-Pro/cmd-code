@@ -34,7 +34,7 @@
 
 ## 07 SSH Keygen Generate and Add Github
 
-[SSH Keygen and Adding to GitHub](07-Ubuntu-SSH-Key-Generate-and-add-Github_tested.txt)
+[SSH Keygen and Adding to GitHub](07-Ubuntu-SSH-Key-Generate-and add-Github_tested.txt)
 
 ## 08 Audio Input Output
 
