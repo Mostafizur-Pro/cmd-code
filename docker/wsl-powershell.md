@@ -36,6 +36,10 @@ wsl --install -d Ubuntu
 wsl --set-default-version 2
 ```
 
+---
+
+---
+
 # Using WSL in PowerShell
 
 ## Step 1: Launch WSL:
