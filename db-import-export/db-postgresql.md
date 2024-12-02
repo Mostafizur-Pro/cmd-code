@@ -33,4 +33,28 @@ Exit PostgreSQL
 \q
 ```
 
+## Step 3: Create a new user
+
+```bash
+CREATE USER new_user_name WITH PASSWORD 'new_user_password';
+```
+
+## Step 4: Grant privileges to the new user
+
+```bash
+GRANT ALL PRIVILEGES ON DATABASE new_database_name TO new_user_name;
+```
+
+```bash
+ALTER USER new_user_name CREATEDB;
+```
+
+## Step 5: Verify the new user
+
+```bash
+\q
+```
+
+<img src="images/05.png" alt="PostgreSQL Users" />
+
 [BACK](db-import-export.md)
