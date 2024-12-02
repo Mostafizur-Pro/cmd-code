@@ -20,6 +20,10 @@
 
 - [Nginx Interview Question](03.4-interview-question.md)
 
+## File Permission
+
+[File Permission](04-File_permission.md)
+
 ---
 
 [BACK Main](../README.md)
