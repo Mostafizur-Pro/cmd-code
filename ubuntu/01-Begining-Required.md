@@ -71,3 +71,8 @@ Open Bangla Keyboard:<br/>
 Go to Open Bangla Keyboard Website then install keyboard with their documentation. Then go to setting and add keyboard input source/method Open Bangla Keyboard for bangla suupport, now can possible to write bangla `super key+space bar`.
 
 <br/>Avro:<br/>If chose avro command `sudo apt-get install ibus-avro` then go to setting and add keyboard input source/method as Bangla (Avro Phonetic) for bangla suupport, now can possible to write bangla `super key+space bar`.
+
+---
+
+[BACK Ubuntu Main](ubuntu-main.md)
+[BACK Main](../README.md)
