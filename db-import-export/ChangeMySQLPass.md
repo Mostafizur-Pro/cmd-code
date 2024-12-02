@@ -30,4 +30,4 @@ FLUSH PRIVILEGES;
 exit;
 ```
 
-[BACK](../db-import-export.md)
+[BACK](db-import-export.md)
