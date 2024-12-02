@@ -31,3 +31,19 @@ CREATE DATABASE IF NOT EXISTS new_database_name;
 ```bash
 SHOW DATABASES;
 ```
+
+```bash
+  mysql> show databases;
+        +--------------------+
+        | Database           |
+        +--------------------+
+        | febbms             |
+        | information_schema |
+        | mysql              |
+        | performance_schema |
+        | phpmyadmin         |
+        | sys                |
+        | wp                 |
+        +--------------------+
+        7 rows in set (0.01 sec)
+```
