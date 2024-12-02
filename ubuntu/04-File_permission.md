@@ -95,19 +95,11 @@ sudo chown -R $USER:www-data filename.txt/foldername
 
 `ls -l` - show file permission
 
--rw-r--r-- 12 linuxize users 12.0K Apr 8 20:51 filename.txt
-|[-][-][-] - [------] [---] [---] [---------] [-----------]
-| | | | | | | | | |
-| | | | | | | | | +------------> File Name or Folder Name
-| | | | | | | | +--------------------------> Date and Time When Create/Update
-| | | | | | | +------------------------------------> File size
-| | | | | | +------------------------------------------> Group
-| | | | | +--------------------------------------------------> Owner
-| | | | +--------------------------------------------------------> Number of links to the file
-| | | +-----------------------------------------------------------> Other Permission (All user and groups)
-| | +--------------------------------------------------------------> Group Permission
-| +-----------------------------------------------------------------> Owner Permission
-+-------------------------------------------------------------------> File Type ('-' means file and 'd' means file/directory)
+```
+ls -l
+```
+
+[04.1-describe.txt](04.1-describe.txt)
 
 Where: - : Means No Permission
 r : Means No Read
