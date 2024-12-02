@@ -32,9 +32,9 @@
 
 [Apache2 Problem](06-APACHE2-2-PHP-PHPMYADMIN-problem-Ubuntu20-mainly-for-APACHE2.md)
 
-## 07 SSH Keygen
+## 07 SSH Keygen Generate and Add Github
 
-[SSH Keygen](07-Ubuntu-SSH-Key-Generate-and-add-Github_tested.txt)
+[SSH Keygen Generate and Add Github](07-Ubuntu-SSH-Key-Generate-and-add-Github_tested.txt)
 
 ## 08 Audio Input Output
 
